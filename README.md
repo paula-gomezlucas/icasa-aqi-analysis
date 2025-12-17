@@ -144,5 +144,3 @@ It documents my first exposure to:
 * Full-stack web development
 * API-driven design
 * Integrating data analysis into interactive applications
-
-```
