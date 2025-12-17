@@ -1,0 +1,19 @@
+{
+  "manifest_version":3,
+  "version":"1.0",
+  "name":"ICAsa",
+  "description": "Extension de Índice de Calidad de Aire",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "content_scripts":[
+    {
+     "matches":["https://www.idealista.com/*"],
+     "js":["main.js"]
+    }
+  ]
+}

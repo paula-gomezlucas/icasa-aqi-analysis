@@ -1,0 +1,75 @@
+body {
+    min-width: 300px;
+    align-content: center;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #0C343D;
+  }
+
+#vistaGen-div {   
+    padding: 5%; 
+    background-color:#BED1EB;  /*bck vista principal*/
+}
+
+#altaBajaDatos-div {
+    padding: 5%;  
+    background-color:#FFE599; /*bck gestor*/
+}
+
+#consultaDatos-div {
+    padding: 5%;    
+    background-color:#FFE599; /*bck gestor*/
+}
+
+#inicioSesion-div {
+    padding: 5%;
+    background-color:#B6D7A8; /*bck generico*/
+}
+
+#registro-div {
+    padding: 5%;
+    background-color:#B6D7A8; /*bck generico*/
+}
+
+#vistaAdmin-div {
+    padding: 5%;
+    background-color:#FFE599; /*bck gestor*/
+}
+
+#index-div {
+    padding: 5%;
+    background-color:#B6D7A8; /*bck generico*/
+}
+
+.btn-primary {
+    margin-bottom: 5%;
+    background-color:#9FC5F8 !important;
+    color: black;
+}
+
+.btn-primary:hover {
+    background-color:#619be5 !important;
+}
+
+.btn-secondary {
+    margin-bottom: 5%;
+    background-color:#B6D7A8 !important;
+    color: black;
+}
+
+.btn-secondary:hover {
+    background-color:#6e8d61 !important;
+}
+
+.btn-success {
+    margin-bottom: 5%;
+    background-color:#D5A6BD !important;
+    color: black;
+}
+
+.btn-success:hover {
+    background-color:#a85d81 !important;
+}
+
